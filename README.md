@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with ... Python/Django/Django RestFramework/VueJS
-- 🌱 I’m currently learning ... Golang/Microservices/Clean Arquitecture
+- 🌱 I’m currently learning ... Microservices/Clean Arquitecture
 - 👯 I’m looking to collaborate on ... Pet Projects
-- 🤔 I’m looking for help with ... Golang/Microservices/Clean Arquitecture
 - 📫 How to reach me: ... Twitter [@eltonjncorreia](https://twitter.com/eltonjncorreia)
 - ⚡ Fun fact: ... My current pet project: https://gowikiblogs.herokuapp.com/
 
