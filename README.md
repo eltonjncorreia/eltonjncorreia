@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with ... Python/Django/Django RestFramework
-- 🌱 I’m currently learning ... Golang/Microservices/Clean Arquitecture
 - 📫 How to reach me: ... Twitter [@eltonjncorreia](https://twitter.com/eltonjncorreia)
 - ⚡ My current project: https://gowikiblogs.herokuapp.com/
 
