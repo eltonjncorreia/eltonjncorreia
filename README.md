@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Elton Jefferson do Nascimento Correia</h1>
+<h1 align="center">Hi 👋</h1>
 
-<h3 align="center">I write in Python and sometimes Go. A passionate backend developer from Brazil. </h3>
+<h3 align="center">I write in Python and sometimes Go </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonjncorreia&label=Profile%20views&color=0e75b6&style=flat" alt="eltonjncorreia" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eltonjncorreia" alt="eltonjncorreia" /></a> </p>
 
-- 🔭 I am currently open to new opportunities
+- 🌱 What am I an expert **Python, Django, Django Rest Framework** and what I know **Golang**
 
 - 🔭 I'm currently working on my personal project [https://webhook.space/](https://webhook.space/)
-
-- 🌱 I’m currently learning **Django, Django Rest Framework and Go(Golang)**
 
 - 👯 I seek to collaborate on open source projects to impact people around the world
 
@@ -20,7 +18,7 @@
 
 - 📫 How to reach me **eltonjncorreia@gmail.com**
 
-- ⚡ Fun fact **Watch suspense and action series**
+- ⚡ Fun fact **watch suspense and action series**
 
 
 <h3 align="left">Connect with me:</h3>
