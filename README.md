@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋</h1>
 
-<h3 align="center">I write in Python and sometimes Go </h3>
+<h3 align="center">I write in Python </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonjncorreia&label=Profile%20views&color=0e75b6&style=flat" alt="eltonjncorreia" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eltonjncorreia" alt="eltonjncorreia" /></a> </p>
 
-- 🌱 What am I an expert **Python, Django, Django Rest Framework** and what I know **Golang**
+- 🌱 What I know **Python, Django, Django Rest Framework**
 
 - 🔭 I'm currently working on my personal project [https://webhook.space/](https://webhook.space/)
 
 - 👯 I seek to collaborate on open source projects to impact people around the world
 
-- 👨‍💻 All my projects are available on Github and LinkedIn
-
-- 💬 Ask me about **Python e Django, Go, Architecture, Software Development**
+- 💬 Ask me about **Python, Django, Architecture, Software Development**
 
 - 📫 How to reach me **eltonjncorreia@gmail.com**
 
