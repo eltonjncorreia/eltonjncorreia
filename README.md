@@ -9,12 +9,9 @@
 - 🌱 What I know **Python, Django, Django Rest Framework**
 
 - 🔭 I'm maintain some projects:
-  - Building **ICheck** [Saas to confirm schedule/appointment/anything ](https://github.com/eltonjncorreia/icheck) 
   - [Webhook as services](https://webhook.space/)
   - [Link Generator for WhatsApp](https://whatsgerador.online/)
   - [CNPJ generator](https://4fakes.com/)
-
-- 👯 I seek to collaborate on open source projects to impact people around the world
 
 - 💬 Ask me about **Python, Django, Architecture, Software Development**
 
