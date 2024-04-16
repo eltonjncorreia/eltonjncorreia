@@ -10,10 +10,9 @@
 - 🔥 I am studying **Clean Architecture, Design Pattern**
 
 - 🔭 I'm maintain some projects:
+  - [GoHub in progress...](https://gohub.fly.dev/)
   - [Webhook as services](https://webhook.space/)
   - [Metadata.com - Improve your creative data](https://metadatadotcom.fly.dev/)
-  - [Link Generator for WhatsApp](https://whatsgerador.online/)
-  - [CNPJ generator](https://4fakes.com/)
 
 - 📫 How to reach me **eltonjncorreia@gmail.com**
 
