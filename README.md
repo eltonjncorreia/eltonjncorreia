@@ -13,7 +13,10 @@
   - [GoHub in progress...](https://gohub.fly.dev/)
   - [Webhook as services](https://webhook.space/)
   - [Metadata.com - Improve your creative data](https://metadatadotcom.fly.dev/)
-
+- Other projects
+  - [whatsgerador](https://whatsgerador.netlify.app/)
+  - [4gerador](https://4gerador.netlify.app/)
+  - 
 - 📫 How to reach me **eltonjncorreia@gmail.com**
 
 - ⚡ Fun fact **watch suspense and action series**
