@@ -11,7 +11,6 @@
 
 - 🔭 I'm maintain some projects:
   - [URL Shortener](https://own.fly.dev)
-  - [GoHub](https://gohub.fly.dev/)
   - [Metadata.com - Improve your creative data](https://metadatadotcom.fly.dev/)
 - Other projects
   - [whatsgerador](https://whatsgerador.netlify.app/)
