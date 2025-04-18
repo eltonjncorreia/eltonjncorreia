@@ -10,6 +10,7 @@
 - 🔥 I am studying **Clean Architecture, Design Pattern**
 
 - 🔭 I'm maintain some projects:
+  - [JSON Formatter](https://jsonninja.netlify.app/)   
   - [URL Shortener](https://own.fly.dev)
   - [Metadata.com - Improve your creative data](https://metadatadotcom.fly.dev/)
 - Other projects
