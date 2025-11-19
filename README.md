@@ -10,6 +10,7 @@
 - 🔥 I am studying **Clean Architecture, Design Pattern**
 
 - 🔭 I'm maintain some projects:
+  - [Blogs FastAPI](https://fastapiblogs.fly.dev/)
   - [FastAPI Weekly](https://fastapiweekly.substack.com)
   - [JSON Formatter](https://jsonninja.netlify.app/)   
   - [URL Shortener](https://own.fly.dev)
