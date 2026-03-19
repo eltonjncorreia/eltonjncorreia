@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-<h3 align="center">Code Writer </h3>
+<h3 align="center">Code Review/Architecture </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonjncorreia&label=Profile%20views&color=0e75b6&style=flat" alt="eltonjncorreia" /> </p>
 
@@ -10,15 +10,16 @@
 - 🔥 I am studying **Clean Architecture, Design Pattern**
 
 - 🔭 I'm maintain some projects:
-  - [UpDown Detector](https://updown.fly.dev/)  
   - [Blogs FastAPI](https://fastapiblogs.fly.dev/)
   - [FastAPI Weekly](https://fastapiweekly.substack.com)
   - [JSON Formatter](https://jsonninja.netlify.app/)   
-  - [URL Shortener](https://own.fly.dev)
-  - [Metadata.com - Improve your creative data](https://metadatadotcom.fly.dev/)
-- Other projects
+  
+- Obsolete projects
+  - [UpDown Detector](https://updown.fly.dev/)  
   - [whatsgerador](https://whatsgerador.netlify.app/)
   - [4gerador](https://4gerador.netlify.app/)
+  - [URL Shortener](https://own.fly.dev)
+  - [Metadata.com - Improve your creative data](https://metadatadotcom.fly.dev/)
   - 
 - 📫 How to reach me **eltonjncorreia@gmail.com**
 
