@@ -10,6 +10,7 @@
 - 🔥 I am studying **Clean Architecture, Design Pattern**
 
 - 🔭 I'm maintain some projects:
+  - [Check Down Website](https://isitupdown.vercel.app)
   - [Generator PowerBalls & Stats](https://powerballstats.site)
   - [Blogs FastAPI](https://fastapiblogs.fly.dev/)
   - [FastAPI Weekly](https://fastapiweekly.substack.com)
