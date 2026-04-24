@@ -1,39 +1,62 @@
 <h1 align="center">Hi 👋</h1>
 
-<h3 align="center">Writer </h3>
+<h3 align="center">Backend Engineer • Golang & Python • Building SaaS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonjncorreia&label=Profile%20views&color=0e75b6&style=flat" alt="eltonjncorreia" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eltonjncorreia" alt="eltonjncorreia" /></a> </p> -->
+## 🚀 Featured Projects
 
-- 🌱 What I know **Python, Golang, Django, Django Rest Framework, FastAPI**
-- 🔥 I am studying **Clean Architecture, Design Pattern**
+### 📝 Blogs FastAPI  
+Simple and scalable blog API built with FastAPI.
 
-- 🔭 I'm maintain some projects:
-  - [Check Down Website](https://isitupdown.vercel.app)
-  - [Generator PowerBalls & Stats](https://powerballstats.site)
-  - [Blogs FastAPI](https://fastapiblogs.fly.dev/)
-  - [FastAPI Weekly](https://fastapiweekly.substack.com)
-  - [JSON Formatter](https://jsonninja.netlify.app/)   
-  
-- Obsolete projects
-  - [UpDown Detector](https://updown.fly.dev/)  
-  - [whatsgerador](https://whatsgerador.netlify.app/)
-  - [4gerador](https://4gerador.netlify.app/)
-  - [URL Shortener](https://own.fly.dev)
-  - [Metadata.com - Improve your creative data](https://metadatadotcom.fly.dev/)
-  - 
-- 📫 How to reach me **eltonjncorreia@gmail.com**
+- ⚙️ Stack: FastAPI, PostgreSQL  
+- 🎯 Focus: clean architecture and performance  
+- 🔗 https://fastapiblogs.fly.dev/
 
-- ⚡ Fun fact **watch suspense and action series**
+---
 
+### 📰 FastAPI Weekly  
+Newsletter focused on FastAPI ecosystem and backend development.
+
+- 📚 Content: tutorials, tools, updates  
+- 🎯 Audience: backend developers  
+- 🔗 https://fastapiweekly.substack.com
+
+---
+
+### 🧾 JSON Formatter  
+Tool to format, validate and visualize JSON easily.
+
+- ⚡ Fast and simple UI  
+- 🎯 Focus: developer productivity  
+- 🔗 https://jsonninja.netlify.app/
+
+---
+
+## 🧪 Other Projects
+
+- 🔍 https://isitupdown.vercel.app → Website uptime checker  
+- 🎲 https://powerballstats.site → Powerball stats & generator  
+- 📡 https://updown.fly.dev → Uptime monitoring experiment  
+- 📱 https://whatsgerador.netlify.app → Utility generator tool  
+- 🧰 https://4gerador.netlify.app → Multi-purpose generator  
+- 🔗 https://own.fly.dev → URL shortener service  
+- 🧠 https://metadatadotcom.fly.dev → Metadata optimization tool
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/elton-jefferson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elton-jefferson" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4548128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4548128" height="30" width="40" /></a>
+<a style="display:inline-block; margin-right:5px;" href="https://linkedin.com/in/elton-jefferson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elton-jefferson" height="30" width="40" /></a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p>
+<p align="left">
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
+<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+</p>
