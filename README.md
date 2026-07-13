@@ -11,7 +11,7 @@ Simple and blog personal.
 
 - ⚙️ Stack: nextJS, Markdown, Javascript
 - 🎯 Focus: Tecnologia, inteligência artificial e desenvolvimento de software
-- 🔗 [etonjefferson.dev](https://eltonblogs.vercel.app/)
+- 🔗 [eltonjefferson.dev](https://eltonjefferson.dev/)
 
 ### 📝 Blogs FastAPI  
 Simple and scalable blog API built with FastAPI.
